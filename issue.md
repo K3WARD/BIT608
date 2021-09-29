@@ -1,3 +1,15 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+
+
+
 Does your log mention database corruption?
 
 If your Syncthing log reports panics because of database corruption it is
