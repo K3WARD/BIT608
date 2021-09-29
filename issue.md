@@ -10,7 +10,7 @@ assignees: ''
 
 
 
-Does your log mention database corruption?
+###Does your log mention database corruption?
 
 If your Syncthing log reports panics because of database corruption it is
 most likely a fault with your system's storage or memory. Affected log
@@ -18,7 +18,7 @@ entries will contain lines starting with panic: leveldb. You will need to
 delete the index database to clear this, by running syncthing -reset-database.
 
 
-Include required information
+###Include required information
 
   Version of Ongaonga B&B Booking App
 
